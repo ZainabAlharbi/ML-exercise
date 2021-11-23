@@ -14,7 +14,7 @@
 ### Random Forest Model
  
 ## Reason:
-**We decided to use the Random Forest Model because we have a large dataset to be able to select a decision based on many decision trees.**
+**We decided to choose Neural networks because it helps us cluster and classify. and it can improve the accuracy for our model. **
 ## Group 1:
  **TITANS** 
 ## Group Members:
