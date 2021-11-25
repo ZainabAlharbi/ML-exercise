@@ -11,7 +11,7 @@
 ### Checking The customer's eligibility for  a loan
  
 ## ML model selected:
-
+Gradient boosting classifier
  
  
 
